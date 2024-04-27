@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/timeslape-vnuhcm/static/css/main.aead8dfb.css",
-    "main.js": "/timeslape-vnuhcm/static/js/main.9ecb70a6.js",
+    "main.css": "/timeslape-vnuhcm/static/css/main.06854b19.css",
+    "main.js": "/timeslape-vnuhcm/static/js/main.ff6e2a5c.js",
     "static/js/453.f5e2217e.chunk.js": "/timeslape-vnuhcm/static/js/453.f5e2217e.chunk.js",
     "static/media/flag.gif": "/timeslape-vnuhcm/static/media/flag.b032198d8d4038415e41.gif",
     "static/media/93-năm.png": "/timeslape-vnuhcm/static/media/93-năm.7405db048abeab4147e3.png",
@@ -73,12 +73,12 @@
     "static/media/c18rain_2022Temp.png": "/timeslape-vnuhcm/static/media/c18rain_2022Temp.f9a5b76d4e415dd8ce81.png",
     "static/media/c20rain_2023Temp.png": "/timeslape-vnuhcm/static/media/c20rain_2023Temp.48d8ca87b779e34cdaf1.png",
     "index.html": "/timeslape-vnuhcm/index.html",
-    "main.aead8dfb.css.map": "/timeslape-vnuhcm/static/css/main.aead8dfb.css.map",
-    "main.9ecb70a6.js.map": "/timeslape-vnuhcm/static/js/main.9ecb70a6.js.map",
+    "main.06854b19.css.map": "/timeslape-vnuhcm/static/css/main.06854b19.css.map",
+    "main.ff6e2a5c.js.map": "/timeslape-vnuhcm/static/js/main.ff6e2a5c.js.map",
     "453.f5e2217e.chunk.js.map": "/timeslape-vnuhcm/static/js/453.f5e2217e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aead8dfb.css",
-    "static/js/main.9ecb70a6.js"
+    "static/css/main.06854b19.css",
+    "static/js/main.ff6e2a5c.js"
   ]
 }
