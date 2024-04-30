@@ -1,16 +1,9 @@
 {
   "files": {
     "main.css": "/timeslape-vnuhcm/static/css/main.06854b19.css",
-    "main.js": "/timeslape-vnuhcm/static/js/main.364053c4.js",
+    "main.js": "/timeslape-vnuhcm/static/js/main.960684ab.js",
     "static/js/453.f5e2217e.chunk.js": "/timeslape-vnuhcm/static/js/453.f5e2217e.chunk.js",
-    "static/media/flag.gif": "/timeslape-vnuhcm/static/media/flag.b032198d8d4038415e41.gif",
     "static/media/93-năm.png": "/timeslape-vnuhcm/static/media/93-năm.7405db048abeab4147e3.png",
-    "static/media/DTN.svg": "/timeslape-vnuhcm/static/media/DTN.b15e5cee8dc2f8dd788f1808acea1279.svg",
-    "static/media/fire-flame.gif": "/timeslape-vnuhcm/static/media/fire-flame.496f099cd8f8985d2e24.gif",
-    "static/media/Picture2.svg": "/timeslape-vnuhcm/static/media/Picture2.db5567c63156ef1bcc9f4dfbb1864884.svg",
-    "static/media/ddl2.png": "/timeslape-vnuhcm/static/media/ddl2.8b70b4bcc5e960f1a4fb.png",
-    "static/media/ddl1.png": "/timeslape-vnuhcm/static/media/ddl1.b4f2038e773265cc8376.png",
-    "static/media/red-arrow.gif": "/timeslape-vnuhcm/static/media/red-arrow.23ea599922e5ec8de25b.gif",
     "static/media/c19dry_2023.png": "/timeslape-vnuhcm/static/media/c19dry_2023.8c577a0382eb14ea2118.png",
     "static/media/c17dry_2022.png": "/timeslape-vnuhcm/static/media/c17dry_2022.539c86cd245c0168114a.png",
     "static/media/c18rain_2022.png": "/timeslape-vnuhcm/static/media/c18rain_2022.9ee2ed94463f667e76fa.png",
@@ -74,11 +67,11 @@
     "static/media/c20rain_2023Temp.png": "/timeslape-vnuhcm/static/media/c20rain_2023Temp.48d8ca87b779e34cdaf1.png",
     "index.html": "/timeslape-vnuhcm/index.html",
     "main.06854b19.css.map": "/timeslape-vnuhcm/static/css/main.06854b19.css.map",
-    "main.364053c4.js.map": "/timeslape-vnuhcm/static/js/main.364053c4.js.map",
+    "main.960684ab.js.map": "/timeslape-vnuhcm/static/js/main.960684ab.js.map",
     "453.f5e2217e.chunk.js.map": "/timeslape-vnuhcm/static/js/453.f5e2217e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06854b19.css",
-    "static/js/main.364053c4.js"
+    "static/js/main.960684ab.js"
   ]
 }
